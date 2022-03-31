@@ -442,6 +442,17 @@ h2 {
  
 }
 
+/* caraousel-container for second */
+.carousel-container-sec {
+  width: 100%;
+  overflow: hidden;
+  background-color: #F6F8FF;
+  border-radius:40px;
+  margin: 5px 0 5vh 0;
+  border: solid 1px #ebefff;
+ 
+}
+/*  */
 .brand-carousel {
   width: 100%;
   height: 80px;
@@ -470,7 +481,7 @@ h2 {
 }
 
 
-@media only screen and (max-width: 1280px){
+@media only screen and (max-width: 1380px){
   .carousel-container{
     width: 100%;
     margin: 0px auto 25px auto;
@@ -513,6 +524,8 @@ h2 {
   width: 95px !important;
   margin-top: 5px;
 }
+
+
 
 @keyframes scroll{
 0% {left:80%;}
