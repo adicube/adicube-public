@@ -161,7 +161,7 @@ main .hero-left, main .hero-right {
 h1 {
   font-size: 30px;
   font-family: ManropeLight;
-  line-height: 72px
+  line-height: 40px
 }
 
 @media only screen and (max-width: 1024px){
@@ -525,7 +525,32 @@ h2 {
   margin-top: 5px;
 }
 
+.logo-17-adjust-height{
+  width: 60px !important;
+  margin-top: 5px;
+}
 
+.logo-19-adjust-height{
+  width: 165px !important;
+  margin-top: 5px;
+}
+
+.logo-20-adjust-height{
+  width: 62px!important;
+  margin-top: 5px;
+}
+.logo-21-adjust-height{
+  width: 60px!important;
+  margin-top: 5px;
+}
+.logo-22-adjust-height{
+  width: 60px!important;
+  margin-top:5px;
+}
+.logo-27-adjust-height {
+  width: 70px!important;
+  margin-top: 5px;
+}
 
 @keyframes scroll{
 0% {left:80%;}
