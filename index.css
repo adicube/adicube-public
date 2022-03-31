@@ -159,9 +159,9 @@ main .hero-left, main .hero-right {
 
 
 h1 {
-  font-size: 63px;
+  font-size: 30px;
   font-family: ManropeLight;
-  line-height: 72px
+  line-height: 40px
 }
 
 @media only screen and (max-width: 1024px){
@@ -442,6 +442,17 @@ h2 {
  
 }
 
+/* caraousel-container for second */
+.carousel-container-sec {
+  width: 100%;
+  overflow: hidden;
+  background-color: #F6F8FF;
+  border-radius:40px;
+  margin: 5px 0 5vh 0;
+  border: solid 1px #ebefff;
+ 
+}
+/*  */
 .brand-carousel {
   width: 100%;
   height: 80px;
@@ -470,7 +481,7 @@ h2 {
 }
 
 
-@media only screen and (max-width: 1280px){
+@media only screen and (max-width: 1380px){
   .carousel-container{
     width: 100%;
     margin: 0px auto 25px auto;
@@ -511,6 +522,33 @@ h2 {
 
 .logo-7-adjust-height {
   width: 95px !important;
+  margin-top: 5px;
+}
+
+.logo-17-adjust-height{
+  width: 60px !important;
+  margin-top: 5px;
+}
+
+.logo-19-adjust-height{
+  width: 165px !important;
+  margin-top: 5px;
+}
+
+.logo-20-adjust-height{
+  width: 62px!important;
+  margin-top: 5px;
+}
+.logo-21-adjust-height{
+  width: 60px!important;
+  margin-top: 5px;
+}
+.logo-22-adjust-height{
+  width: 60px!important;
+  margin-top:5px;
+}
+.logo-27-adjust-height {
+  width: 70px!important;
   margin-top: 5px;
 }
 
