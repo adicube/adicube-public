@@ -481,7 +481,7 @@ h2 {
 }
 
 
-@media only screen and (max-width: 1380px){
+@media only screen and (max-width: 1768px){
   .carousel-container{
     width: 100%;
     margin: 0px auto 25px auto;
